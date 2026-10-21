@@ -1,0 +1,37 @@
+topic,question
+password,What is the minimum password length required by company policy?
+password,How many characters must an employee password have at minimum?
+password,What is the required minimum length for passwords?
+vpn,Which VPN client must employees use for remote access?
+vpn,What VPN software is approved for working remotely?
+vpn,Which VPN tool do staff need to connect to the company network from home?
+phishing,Where should employees report a suspected phishing email?
+phishing,Which address do I forward a phishing email to?
+phishing,How do staff report a suspicious email?
+mfa,How often must employees renew their MFA enrollment?
+mfa,How frequently does multi-factor authentication need to be re-enrolled?
+mfa,What is the MFA re-enrollment interval for employees?
+laptop,Within how many hours must a lost laptop be reported?
+laptop,How quickly do I need to report a stolen company laptop?
+laptop,What is the deadline for reporting a lost company device?
+logs,How long are security logs retained?
+logs,What is the retention period for security logs?
+logs,For how long does the company keep audit logs?
+patch,How quickly must critical vulnerabilities be patched?
+patch,What is the deadline for fixing critical security vulnerabilities?
+patch,Within what time frame should critical patches be applied?
+backup,How often are production databases backed up?
+backup,What is the backup frequency for production databases?
+backup,How frequently do database backups run?
+usb,Are personal USB drives allowed on company laptops?
+usb,Can employees plug personal USB sticks into work laptops?
+usb,What is the policy on personal USB storage devices?
+wifi,Which Wi-Fi network should visitors connect to?
+wifi,What is the guest Wi-Fi network name?
+wifi,Which wireless network should guests use in the office?
+privileged,How often is privileged access reviewed?
+privileged,What is the review frequency for admin access rights?
+privileged,How frequently are administrator permissions audited?
+vendor,Who approves new third-party vendors that handle customer data?
+vendor,Which team must approve a vendor before it can process customer data?
+vendor,Who signs off on new vendors with access to customer information?

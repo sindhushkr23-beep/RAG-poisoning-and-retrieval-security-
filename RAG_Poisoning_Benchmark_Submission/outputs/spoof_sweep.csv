@@ -1,0 +1,21 @@
+spoof_rate,defence,Poison Retrieval Rate,Poison Context Share,Irrelevant Context Share,Evidence Recall,Injection Success Rate,Misinformation Rate,Answer Accuracy
+0.0,No defence,100.0,61.7,5.0,100.0,26.7,37.2,36.1
+0.0,Source validation only,0.0,0.0,46.1,100.0,0.0,0.0,100.0
+0.0,Retrieval filtering only,94.4,40.0,20.3,100.0,18.9,44.4,36.7
+0.0,Source val. + filtering,0.0,0.0,35.2,100.0,0.0,0.0,100.0
+0.25,No defence,100.0,61.7,5.0,100.0,26.7,37.2,36.1
+0.25,Source validation only,75.6,30.0,38.5,100.0,27.8,16.1,56.1
+0.25,Retrieval filtering only,94.4,40.0,20.3,100.0,18.9,44.4,36.7
+0.25,Source val. + filtering,40.0,12.6,33.6,100.0,8.3,12.2,79.4
+0.5,No defence,100.0,61.7,5.0,100.0,26.7,37.2,36.1
+0.5,Source validation only,93.9,45.3,24.4,100.0,35.0,27.8,37.2
+0.5,Retrieval filtering only,94.4,40.0,20.3,100.0,18.9,44.4,36.7
+0.5,Source val. + filtering,64.4,23.4,31.4,100.0,15.0,21.1,63.9
+0.75,No defence,100.0,61.7,5.0,100.0,26.7,37.2,36.1
+0.75,Source validation only,100.0,55.0,14.4,100.0,33.9,30.6,35.6
+0.75,Retrieval filtering only,94.4,40.0,20.3,100.0,18.9,44.4,36.7
+0.75,Source val. + filtering,87.8,33.6,25.1,100.0,17.2,37.8,45.0
+1.0,No defence,100.0,61.7,5.0,100.0,26.7,37.2,36.1
+1.0,Source validation only,100.0,61.7,5.0,100.0,26.7,37.2,36.1
+1.0,Retrieval filtering only,94.4,40.0,20.3,100.0,18.9,44.4,36.7
+1.0,Source val. + filtering,94.4,40.0,20.3,100.0,18.9,44.4,36.7
