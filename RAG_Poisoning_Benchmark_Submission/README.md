@@ -66,9 +66,9 @@ Then choose **Kernel → Restart & Run All**. Runtime is roughly 1-3 minutes on 
 ## Repository contents
 
 ```
-SINDHU-SHEKAR_RAGPoisoningBenchmark.ipynb   main code
+SINDHU_SHEKAR_RAGPoisoningBenchmark.ipynb   main code
 requirements.txt                       dependencies
-SINDHU-SHEKAR_ProjectReport.docx            full project report
+SINDHU_SHEKAR_ProjectReport.docx            full project report
 README.md                              this file
 data/                                  generated corpus and queries
 outputs/                               result tables, results.json, figures
